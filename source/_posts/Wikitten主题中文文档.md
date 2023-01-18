@@ -19,9 +19,9 @@ categories:
 - 将知识多级分类整理，侧边分级展开，为思维跳转设计
 - 根据文件路径自动为文章添加分类 
 
-![Site Preview](../images/SitePreview.png)
-![mobile preview](../images/mobile1.png) 
-![mobile preview](../images/mobile2.png)
+![Site Preview](./images/SitePreview.png)
+![mobile preview](./images/mobile1.png) 
+![mobile preview](./images/mobile2.png)
 
 
 
